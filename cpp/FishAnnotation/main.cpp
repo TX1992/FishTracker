@@ -45,9 +45,9 @@ int main()
 			goodFeaturesToTrack(gray,
 				points,     //store detected corners
 				100,        //the maximum number qof corners you want to retain
-				0.1,       //qualitylevel  eg£º best corner has the quality measure = 1500, and the
+				0.1,       //qualitylevel  egï¼š best corner has the quality measure = 1500, and the
 							//qualityLevel = 0.01, then all the corners with the quality measure less than 15 are rejected.
-				20.,       //Minimum distances between two corner points£ºMinimum possible Euclidean distance between the returned corners
+				20.,       //Minimum distances between two corner pointsï¼šMinimum possible Euclidean distance between the returned corners
 				Mat(),    //region of interest 
 				13,         //w(x, y)
 				true,     //useHarrisDetector
@@ -181,10 +181,10 @@ void drawArrow(cv::Mat& img, cv::Point pStart, cv::Point pEnd, int len, int alph
 {
 	const double PI = 3.1415926;
 	Point arrow;
-	//¼ÆËã ¦È ½Ç£¨×î¼òµ¥µÄÒ»ÖÖÇé¿öÔÚÏÂÃæÍ¼Ê¾ÖĞÒÑ¾­Õ¹Ê¾£¬¹Ø¼üÔÚÓÚ atan2 º¯Êı£¬ÏêÇé¼ûÏÂÃæ£©   
+	//è®¡ç®— Î¸ è§’ï¼ˆæœ€ç®€å•çš„ä¸€ç§æƒ…å†µåœ¨ä¸‹é¢å›¾ç¤ºä¸­å·²ç»å±•ç¤ºï¼Œå…³é”®åœ¨äº atan2 å‡½æ•°ï¼Œè¯¦æƒ…è§ä¸‹é¢ï¼‰   
 	double angle = atan2((double)(pStart.y - pEnd.y), (double)(pStart.x - pEnd.x));
 	line(img, pStart, pEnd, color, thickness, lineType);
-	//¼ÆËã¼ı½Ç±ßµÄÁíÒ»¶ËµÄ¶ËµãÎ»ÖÃ£¨ÉÏÃæµÄ»¹ÊÇÏÂÃæµÄÒª¿´¼ıÍ·µÄÖ¸Ïò£¬Ò²¾ÍÊÇpStartºÍpEndµÄÎ»ÖÃ£© 
+	//è®¡ç®—ç®­è§’è¾¹çš„å¦ä¸€ç«¯çš„ç«¯ç‚¹ä½ç½®ï¼ˆä¸Šé¢çš„è¿˜æ˜¯ä¸‹é¢çš„è¦çœ‹ç®­å¤´çš„æŒ‡å‘ï¼Œä¹Ÿå°±æ˜¯pStartå’ŒpEndçš„ä½ç½®ï¼‰ 
 	arrow.x = pEnd.x + len * cos(angle + PI * alpha / 180);
 	arrow.y = pEnd.y + len * sin(angle + PI * alpha / 180);
 	line(img, pEnd, arrow, color, thickness, lineType);
