@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   
+   <folder>select_data_11</folder>
+   
+   <filename>080.jpg</filename>
+   
+   <size>
+      
+      <width>640</width>
+      
+      <height>480</height>
+   
+   </size>
+   
+   <positive>
+      
+      <object>
+         
+         <center>102,314</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>370,84</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>362,156</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>379,291</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>361,416</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>443,458</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>488,325</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>593,258</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>595,299</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>573,420</center>
+      
+      </object>
+   
+   </positive>
+
+   <negative>
+      <object>
+         <center>597,359</center>
+      </object>
+      <object>
+         <center>607,235</center>
+      </object>
+      <object>
+         <center>153,337</center>
+      </object>
+      <object>
+         <center>582,442</center>
+      </object>
+      <object>
+         <center>330,116</center>
+      </object>
+      <object>
+         <center>547,322</center>
+      </object>
+      <object>
+         <center>339,92</center>
+      </object>
+      <object>
+         <center>28,448</center>
+      </object>
+      <object>
+         <center>555,463</center>
+      </object>
+      <object>
+         <center>131,321</center>
+      </object>
+      <object>
+         <center>6,83</center>
+      </object>
+      <object>
+         <center>426,478</center>
+      </object>
+   </negative>
+</annotation>

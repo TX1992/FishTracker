@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>select_data_11</folder>
+   <filename>175.jpg</filename>
+   <size>
+      <width>640</width>
+      <height>480</height>
+   </size>
+   <positive>
+      <object>
+         <center>26,165</center>
+      </object>
+      <object>
+         <center>209,250</center>
+      </object>
+      <object>
+         <center>434,392</center>
+      </object>
+      <object>
+         <center>309,412</center>
+      </object>
+      <object>
+         <center>512,399</center>
+      </object>
+      <object>
+         <center>602,435</center>
+      </object>
+      <object>
+         <center>535,249</center>
+      </object>
+      <object>
+         <center>584,210</center>
+      </object>
+      <object>
+         <center>622,355</center>
+      </object>
+   </positive>
+</annotation>

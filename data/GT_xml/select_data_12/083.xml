@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   
+   <folder>select_data_12</folder>
+   
+   <filename>083.jpg</filename>
+   
+   <size>
+      
+      <width>640</width>
+      
+      <height>480</height>
+   
+   </size>
+   
+   <positive>
+      
+      <object>
+         
+         <center>264,331</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>371,403</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>360,299</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>492,236</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>546,383</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>623,226</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>482,116</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>181,469</center>
+      
+      </object>
+   
+   </positive>
+
+   <negative>
+      <object>
+         <center>605,421</center>
+      </object>
+      <object>
+         <center>217,293</center>
+      </object>
+      <object>
+         <center>598,89</center>
+      </object>
+      <object>
+         <center>19,163</center>
+      </object>
+      <object>
+         <center>26,184</center>
+      </object>
+      <object>
+         <center>594,409</center>
+      </object>
+      <object>
+         <center>496,96</center>
+      </object>
+      <object>
+         <center>321,464</center>
+      </object>
+      <object>
+         <center>389,309</center>
+      </object>
+      <object>
+         <center>540,225</center>
+      </object>
+      <object>
+         <center>26,91</center>
+      </object>
+      <object>
+         <center>601,119</center>
+      </object>
+      <object>
+         <center>417,284</center>
+      </object>
+      <object>
+         <center>459,281</center>
+      </object>
+   </negative>
+</annotation>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   
+   <folder>select_data_11</folder>
+   
+   <filename>007.jpg</filename>
+   
+   <size>
+      
+      <width>640</width>
+      
+      <height>480</height>
+   
+   </size>
+   
+   <positive>
+      
+      <object>
+         
+         <center>22,236</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>79,372</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>367,247</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>397,323</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>454,182</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>577,165</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>613,227</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>602,332</center>
+      
+      </object>
+   
+   </positive>
+
+   <negative>
+      <object>
+         <center>583,379</center>
+      </object>
+      <object>
+         <center>600,372</center>
+      </object>
+      <object>
+         <center>428,245</center>
+      </object>
+      <object>
+         <center>563,389</center>
+      </object>
+      <object>
+         <center>520,470</center>
+      </object>
+      <object>
+         <center>136,334</center>
+      </object>
+      <object>
+         <center>503,468</center>
+      </object>
+      <object>
+         <center>597,401</center>
+      </object>
+      <object>
+         <center>26,90</center>
+      </object>
+      <object>
+         <center>492,201</center>
+      </object>
+      <object>
+         <center>455,301</center>
+      </object>
+      <object>
+         <center>103,344</center>
+      </object>
+      <object>
+         <center>116,364</center>
+      </object>
+      <object>
+         <center>617,323</center>
+      </object>
+   </negative>
+</annotation>

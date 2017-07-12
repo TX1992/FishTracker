@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   
+   <folder>select_data_11</folder>
+   
+   <filename>116.jpg</filename>
+   
+   <size>
+      
+      <width>640</width>
+      
+      <height>480</height>
+   
+   </size>
+   
+   <positive>
+      
+      <object>
+         
+         <center>82,198</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>139,286</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>213,444</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>398,108</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>371,235</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>386,303</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>582,207</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>597,235</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>520,456</center>
+      
+      </object>
+   
+   </positive>
+
+   <negative>
+      <object>
+         <center>456,88</center>
+      </object>
+      <object>
+         <center>195,286</center>
+      </object>
+      <object>
+         <center>23,98</center>
+      </object>
+      <object>
+         <center>563,468</center>
+      </object>
+      <object>
+         <center>615,223</center>
+      </object>
+      <object>
+         <center>124,169</center>
+      </object>
+      <object>
+         <center>462,234</center>
+      </object>
+      <object>
+         <center>438,272</center>
+      </object>
+      <object>
+         <center>437,224</center>
+      </object>
+      <object>
+         <center>409,280</center>
+      </object>
+      <object>
+         <center>616,250</center>
+      </object>
+      <object>
+         <center>101,177</center>
+      </object>
+      <object>
+         <center>433,243</center>
+      </object>
+   </negative>
+</annotation>

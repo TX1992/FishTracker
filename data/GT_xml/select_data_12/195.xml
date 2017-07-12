@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   
+   <folder>select_data_12</folder>
+   
+   <filename>195.jpg</filename>
+   
+   <size>
+      
+      <width>640</width>
+      
+      <height>480</height>
+   
+   </size>
+   
+   <positive>
+      
+      <object>
+         
+         <center>298,322</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>193,462</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>381,386</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>371,302</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>486,239</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>468,123</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>549,374</center>
+      
+      </object>
+   
+   </positive>
+
+   <negative>
+      <object>
+         <center>609,422</center>
+      </object>
+      <object>
+         <center>25,172</center>
+      </object>
+      <object>
+         <center>19,145</center>
+      </object>
+      <object>
+         <center>594,401</center>
+      </object>
+      <object>
+         <center>490,96</center>
+      </object>
+      <object>
+         <center>594,98</center>
+      </object>
+      <object>
+         <center>241,312</center>
+      </object>
+      <object>
+         <center>394,286</center>
+      </object>
+      <object>
+         <center>159,474</center>
+      </object>
+      <object>
+         <center>614,96</center>
+      </object>
+      <object>
+         <center>398,311</center>
+      </object>
+   </negative>
+</annotation>

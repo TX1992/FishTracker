@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   
+   <folder>select_data_12</folder>
+   
+   <filename>093.jpg</filename>
+   
+   <size>
+      
+      <width>640</width>
+      
+      <height>480</height>
+   
+   </size>
+   
+   <positive>
+      
+      <object>
+         
+         <center>81,203</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>73,406</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>271,459</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>461,425</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>362,216</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>501,152</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>532,258</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>506,137</center>
+      
+      </object>
+   
+   </positive>
+
+   <negative>
+      <object>
+         <center>522,126</center>
+      </object>
+      <object>
+         <center>589,247</center>
+      </object>
+      <object>
+         <center>91,179</center>
+      </object>
+      <object>
+         <center>112,162</center>
+      </object>
+      <object>
+         <center>25,91</center>
+      </object>
+      <object>
+         <center>477,76</center>
+      </object>
+      <object>
+         <center>549,119</center>
+      </object>
+      <object>
+         <center>128,371</center>
+      </object>
+      <object>
+         <center>484,368</center>
+      </object>
+      <object>
+         <center>506,106</center>
+      </object>
+      <object>
+         <center>617,248</center>
+      </object>
+      <object>
+         <center>617,264</center>
+      </object>
+      <object>
+         <center>387,196</center>
+      </object>
+      <object>
+         <center>368,461</center>
+      </object>
+      <object>
+         <center>103,188</center>
+      </object>
+   </negative>
+</annotation>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   
+   <folder>select_data_12</folder>
+   
+   <filename>122.jpg</filename>
+   
+   <size>
+      
+      <width>640</width>
+      
+      <height>480</height>
+   
+   </size>
+   
+   <positive>
+      
+      <object>
+         
+         <center>117,113</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>118,293</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>381,144</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>533,179</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>559,222</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>582,375</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>603,414</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>427,462</center>
+      
+      </object>
+   
+   </positive>
+
+   <negative>
+      <object>
+         <center>442,468</center>
+      </object>
+      <object>
+         <center>157,270</center>
+      </object>
+      <object>
+         <center>603,472</center>
+      </object>
+      <object>
+         <center>153,146</center>
+      </object>
+      <object>
+         <center>179,263</center>
+      </object>
+      <object>
+         <center>488,443</center>
+      </object>
+      <object>
+         <center>25,90</center>
+      </object>
+      <object>
+         <center>586,194</center>
+      </object>
+      <object>
+         <center>143,119</center>
+      </object>
+      <object>
+         <center>188,163</center>
+      </object>
+      <object>
+         <center>616,217</center>
+      </object>
+      <object>
+         <center>161,133</center>
+      </object>
+      <object>
+         <center>130,132</center>
+      </object>
+   </negative>
+</annotation>

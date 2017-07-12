@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   
+   <folder>select_data_12</folder>
+   
+   <filename>167.jpg</filename>
+   
+   <size>
+      
+      <width>640</width>
+      
+      <height>480</height>
+   
+   </size>
+   
+   <positive>
+      
+      <object>
+         
+         <center>126,378</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>219,354</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>352,251</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>371,207</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>400,327</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>339,84</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>472,135</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>506,171</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>585,271</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>536,353</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>542,426</center>
+      
+      </object>
+      
+      <object>
+         
+         <center>607,300</center>
+      
+      </object>
+   
+   </positive>
+
+   <negative>
+      <object>
+         <center>555,342</center>
+      </object>
+      <object>
+         <center>558,371</center>
+      </object>
+      <object>
+         <center>384,122</center>
+      </object>
+      <object>
+         <center>598,357</center>
+      </object>
+      <object>
+         <center>616,332</center>
+      </object>
+      <object>
+         <center>374,86</center>
+      </object>
+      <object>
+         <center>280,358</center>
+      </object>
+      <object>
+         <center>537,177</center>
+      </object>
+      <object>
+         <center>386,97</center>
+      </object>
+      <object>
+         <center>565,153</center>
+      </object>
+      <object>
+         <center>25,90</center>
+      </object>
+      <object>
+         <center>350,289</center>
+      </object>
+      <object>
+         <center>366,266</center>
+      </object>
+      <object>
+         <center>434,197</center>
+      </object>
+      <object>
+         <center>615,61</center>
+      </object>
+      <object>
+         <center>620,379</center>
+      </object>
+   </negative>
+</annotation>
